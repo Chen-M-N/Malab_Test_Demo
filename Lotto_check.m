@@ -1,4 +1,4 @@
-Result=[03 05 08 18 20 09 12];
+Result=[03 05 08 18 0 0 0]; %second version
 Lotto=importdata('Lotto.txt');
 red_correct=0;
 blue_correct=0;
